@@ -1,0 +1,16 @@
+{
+"name":"Rozaan Futuristic App",
+"short_name":"Rozaan",
+"start_url":"index.php",
+"display":"standalone",
+"background_color":"#050816",
+"theme_color":"#00f7ff",
+
+"icons":[
+{
+"src":"images/icon.png",
+"sizes":"192x192",
+"type":"image/png"
+}
+]
+}
